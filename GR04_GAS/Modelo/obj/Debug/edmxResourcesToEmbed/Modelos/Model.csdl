@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DbConexion" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CLIENTE" EntityType="Model.CLIENTE" />
+    <EntitySet Name="FACTURA" EntityType="Model.FACTURA" />
+    <EntitySet Name="USUARIO" EntityType="Model.USUARIO" />
+    <AssociationSet Name="FK_FACTURA_CLIENTE_F_CLIENTE" Association="Model.FK_FACTURA_CLIENTE_F_CLIENTE">
+      <End Role="CLIENTE" EntitySet="CLIENTE" />
+      <End Role="FACTURA" EntitySet="FACTURA" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CLIENTE">
+    <Key>
+      <PropertyRef Name="CLI_CODIGO" />
+    </Key>
+    <Property Name="CLI_CODIGO" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CLI_NOMBRE" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CLI_APELLIDO" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CLI_ID" Type="String" Nullable="false" MaxLength="16" FixedLength="false" Unicode="false" />
+    <Property Name="CLI_EMAIL" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CLI_TEL" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="CLI_DIRECCION" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="CLI_BORRADO" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="FACTURA" Relationship="Model.FK_FACTURA_CLIENTE_F_CLIENTE" FromRole="CLIENTE" ToRole="FACTURA" />
+  </EntityType>
+  <EntityType Name="FACTURA">
+    <Key>
+      <PropertyRef Name="FACT_CODIGO" />
+    </Key>
+    <Property Name="FACT_CODIGO" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CLI_CODIGO" Type="Int64" Nullable="false" />
+    <Property Name="FACT_NUMERO" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="FACT_FECHA" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="FACT_MONTOTOTAL" Type="Decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="FACT_BORRADO" Type="Boolean" Nullable="false" />
+    <Property Name="FACT_CANTIDAD" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="CLIENTE" Relationship="Model.FK_FACTURA_CLIENTE_F_CLIENTE" FromRole="FACTURA" ToRole="CLIENTE" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="USU_CODIGO" />
+    </Key>
+    <Property Name="USU_CODIGO" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="USU_NOMBRE" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="USU_APELLIDO" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="USU_CEDULA" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="USU_DIRECCION" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="USU_TELEFONO" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="USU_EMAIL" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="USU_USUARIO" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="USU_PASSWORD" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="USU_ISADMIN" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_FACTURA_CLIENTE_F_CLIENTE">
+    <End Type="Model.CLIENTE" Role="CLIENTE" Multiplicity="1" />
+    <End Type="Model.FACTURA" Role="FACTURA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CLIENTE">
+        <PropertyRef Name="CLI_CODIGO" />
+      </Principal>
+      <Dependent Role="FACTURA">
+        <PropertyRef Name="CLI_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

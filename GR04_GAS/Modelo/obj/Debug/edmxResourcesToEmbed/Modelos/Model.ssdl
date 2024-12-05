@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CLIENTE">
+    <Key>
+      <PropertyRef Name="CLI_CODIGO" />
+    </Key>
+    <Property Name="CLI_CODIGO" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CLI_NOMBRE" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CLI_APELLIDO" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CLI_ID" Type="varchar" MaxLength="16" Nullable="false" />
+    <Property Name="CLI_EMAIL" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CLI_TEL" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="CLI_DIRECCION" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="CLI_BORRADO" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FACTURA">
+    <Key>
+      <PropertyRef Name="FACT_CODIGO" />
+    </Key>
+    <Property Name="FACT_CODIGO" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CLI_CODIGO" Type="bigint" Nullable="false" />
+    <Property Name="FACT_NUMERO" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FACT_FECHA" Type="datetime" Nullable="false" />
+    <Property Name="FACT_MONTOTOTAL" Type="decimal" Precision="10" Scale="2" Nullable="false" />
+    <Property Name="FACT_BORRADO" Type="bit" Nullable="false" />
+    <Property Name="FACT_CANTIDAD" Type="bigint" Nullable="false" />
+  </EntityType>
+  <EntityType Name="USUARIO">
+    <Key>
+      <PropertyRef Name="USU_CODIGO" />
+    </Key>
+    <Property Name="USU_CODIGO" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="USU_NOMBRE" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="USU_APELLIDO" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="USU_CEDULA" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="USU_DIRECCION" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="USU_TELEFONO" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="USU_EMAIL" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="USU_USUARIO" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="USU_PASSWORD" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="USU_ISADMIN" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_FACTURA_CLIENTE_F_CLIENTE">
+    <End Role="CLIENTE" Type="Self.CLIENTE" Multiplicity="1" />
+    <End Role="FACTURA" Type="Self.FACTURA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CLIENTE">
+        <PropertyRef Name="CLI_CODIGO" />
+      </Principal>
+      <Dependent Role="FACTURA">
+        <PropertyRef Name="CLI_CODIGO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="CLIENTE" EntityType="Self.CLIENTE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FACTURA" EntityType="Self.FACTURA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="USUARIO" EntityType="Self.USUARIO" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_FACTURA_CLIENTE_F_CLIENTE" Association="Self.FK_FACTURA_CLIENTE_F_CLIENTE">
+      <End Role="CLIENTE" EntitySet="CLIENTE" />
+      <End Role="FACTURA" EntitySet="FACTURA" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="DbConexion">
+    <EntitySetMapping Name="CLIENTE">
+      <EntityTypeMapping TypeName="Model.CLIENTE">
+        <MappingFragment StoreEntitySet="CLIENTE">
+          <ScalarProperty Name="CLI_BORRADO" ColumnName="CLI_BORRADO" />
+          <ScalarProperty Name="CLI_DIRECCION" ColumnName="CLI_DIRECCION" />
+          <ScalarProperty Name="CLI_TEL" ColumnName="CLI_TEL" />
+          <ScalarProperty Name="CLI_EMAIL" ColumnName="CLI_EMAIL" />
+          <ScalarProperty Name="CLI_ID" ColumnName="CLI_ID" />
+          <ScalarProperty Name="CLI_APELLIDO" ColumnName="CLI_APELLIDO" />
+          <ScalarProperty Name="CLI_NOMBRE" ColumnName="CLI_NOMBRE" />
+          <ScalarProperty Name="CLI_CODIGO" ColumnName="CLI_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FACTURA">
+      <EntityTypeMapping TypeName="Model.FACTURA">
+        <MappingFragment StoreEntitySet="FACTURA">
+          <ScalarProperty Name="FACT_CANTIDAD" ColumnName="FACT_CANTIDAD" />
+          <ScalarProperty Name="FACT_BORRADO" ColumnName="FACT_BORRADO" />
+          <ScalarProperty Name="FACT_MONTOTOTAL" ColumnName="FACT_MONTOTOTAL" />
+          <ScalarProperty Name="FACT_FECHA" ColumnName="FACT_FECHA" />
+          <ScalarProperty Name="FACT_NUMERO" ColumnName="FACT_NUMERO" />
+          <ScalarProperty Name="CLI_CODIGO" ColumnName="CLI_CODIGO" />
+          <ScalarProperty Name="FACT_CODIGO" ColumnName="FACT_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USUARIO">
+      <EntityTypeMapping TypeName="Model.USUARIO">
+        <MappingFragment StoreEntitySet="USUARIO">
+          <ScalarProperty Name="USU_ISADMIN" ColumnName="USU_ISADMIN" />
+          <ScalarProperty Name="USU_PASSWORD" ColumnName="USU_PASSWORD" />
+          <ScalarProperty Name="USU_USUARIO" ColumnName="USU_USUARIO" />
+          <ScalarProperty Name="USU_EMAIL" ColumnName="USU_EMAIL" />
+          <ScalarProperty Name="USU_TELEFONO" ColumnName="USU_TELEFONO" />
+          <ScalarProperty Name="USU_DIRECCION" ColumnName="USU_DIRECCION" />
+          <ScalarProperty Name="USU_CEDULA" ColumnName="USU_CEDULA" />
+          <ScalarProperty Name="USU_APELLIDO" ColumnName="USU_APELLIDO" />
+          <ScalarProperty Name="USU_NOMBRE" ColumnName="USU_NOMBRE" />
+          <ScalarProperty Name="USU_CODIGO" ColumnName="USU_CODIGO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,37 @@
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Modelo.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Comun.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Comun.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Modelo.dll.config
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Modelo.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Comun.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\EntityFramework.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Comun.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\EntityFramework.xml
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Modelo.dll.config
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Modelo.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Comun.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\EntityFramework.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\EntityFramework.SqlServer.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\Comun.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\EntityFramework.xml
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\bin\Debug\EntityFramework.SqlServer.xml
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Modelo\obj\Debug\Modelo.pdb

@@ -1,0 +1,47 @@
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Logica.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Logica.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Comun.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Datos.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Comun.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Datos.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Modelo.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.CopyComplete
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\I PARCIAL\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Logica.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Logica.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Comun.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Datos.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\EntityFramework.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Comun.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Datos.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Datos.dll.config
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Modelo.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\Modelo.dll.config
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\bin\Debug\EntityFramework.xml
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.CopyComplete
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\GitHub\Sangucho-Paola_9899_4G_MDWS\CODE\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Logica.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Logica.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Comun.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Datos.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Modelo.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\EntityFramework.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Comun.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Datos.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Datos.dll.config
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Modelo.pdb
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\Modelo.dll.config
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\bin\Debug\EntityFramework.xml
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.csproj.CopyComplete
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.dll
+G:\Usuario\Nueva carpeta (2)\MAY - AGOS 23\MET. DES. SOFTWARE\Proyecto\04. BACKEND\GR04_GAS\Logica\obj\Debug\Logica.pdb
